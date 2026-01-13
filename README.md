@@ -39,7 +39,7 @@ The backend is developed using **FastAPI** (Python) and integrates with Azure Op
 1. Clone the repository:
    ```bash
    git clone https://github.com/impana29/Personalised_AI-Research-Assistant.git
-   cd AI-Research-Assistant/backend
+   cd Personalised_AI-Research-Assistant/backend
 
 2. Create and activate a Python virtual environment:
 
